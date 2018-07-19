@@ -17,11 +17,11 @@ _Disclaimer: Our roadmap is subject to change at any time and has no specific da
 2018
 
  - __Cordova Plugin Integration__
-   - Preliminary support for using plugins from the existing Cordova community
+   - Preliminary support for using plugins from the existing Cordova community.
  - __Native Shell Add-ons__
    - Support for interacting with Native UI shell elements, such as native menus, tabs, and navigation, with 1-1 fallbacks to the web for first-class Progressive Web App and Electron support.
  - __Electron support__
-   - Support for building Electron apps and interacting with Node.js libraries
+   - Support for building Electron apps and interacting with Node.js libraries.
  - __Enterprise Premium Plugins__
    - Paid add-on plugins with support for common Enterprise use cases, such as storage, authentication, security, and more
    - Developer Support options with SLAs and priority patches
